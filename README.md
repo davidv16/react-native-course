@@ -13,7 +13,7 @@ All coursework for The Complete React Native + Hooks Course by Stephen Grider.
 - [x] Section 2: Working with Content
 - [x] Section 3: List Building - With Style!
 - [x] Section 4: Navigating Users Between Screens
-- [] Section 5: Building Reusable Components
+- [x] Section 5: Building Reusable Components
 - [] Section 6: State Management in React Components
 - [] Section 7: How to Handle Screen Layout
 - [] Section 8: Putting It All Together - Restaurant SearchApp
