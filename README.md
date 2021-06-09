@@ -10,7 +10,7 @@ All coursework for The Complete React Native + Hooks Course by Stephen Grider.
 ## Curriculum
 
 - [x] Section 1: Getting Started
-- [] Section 2: Working with Content
+- [x] Section 2: Working with Content
 - [] Section 3: List Building - With Style!
 - [] Section 4: Navigating Users Between Screens
 - [] Section 5: Building Reusable Components
