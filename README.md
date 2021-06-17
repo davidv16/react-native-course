@@ -19,7 +19,7 @@ All coursework for The Complete React Native + Hooks Course by Stephen Grider.
 - [x] Section 8: Putting It All Together - Restaurant SearchApp
 - [x] Section 9: Using Outside API's
 - [x] Section 10: Making Hooks Reusable
-- [] Section 11: Navigation with Parameters
+- [x] Section 11: Navigation with Parameters
 - [] Section 12: Advanced State Management with Context
 - [] Section 13: Data API Sync
 - [] Section 14: Building a Custom Express API
